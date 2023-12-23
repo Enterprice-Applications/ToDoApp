@@ -10,7 +10,6 @@ SCSS
 TS
 Java Script
 
-
 ### License
 MIT LICENSE
 Copyright &copy; 2023 Prasad Prabashwara. All Rights Reserved.
