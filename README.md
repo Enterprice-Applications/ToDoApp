@@ -1,4 +1,4 @@
-# U-Chat-App
+# My-To-Do-App
 This features a ToDoApp. Back-end and Front-end development both included
 
 ##Technologies Used
